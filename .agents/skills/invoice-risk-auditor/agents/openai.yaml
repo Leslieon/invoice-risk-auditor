@@ -1,0 +1,4 @@
+interface:
+  display_name: "发票风险审核"
+  short_description: "结合企业历史与规则识别并解释中文发票异常风险"
+  default_prompt: "使用 $invoice-risk-auditor 分析这张发票，并给出可核查的风险结论与解释。"
